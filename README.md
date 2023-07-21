@@ -1,8 +1,8 @@
 # Data_Splitter
-Vous êtes chargé de développer un script Python qui permettra de diviser un fichier CSV contenant des données en trois parties : JSON, base de données et CSV.
+Ce challenge vise à écrire un script Python qui permettra de diviser un fichier CSV contenant des données en trois parties : JSON, base de données et CSV.
 Le script devra être en mesure de transférer 30% des données sous format JSON, 30% dans une base de données et le reste au format CSV.
 
-Vous devez suivre les étapes suivantes pour compléter le challenge :
+Les étapes suivantes pour réaliser le challenge :
 
 Chargement des données : Le script doit être capable de charger les données à partir d'un fichier CSV. Assurez-vous que le fichier CSV a une en-tête en première ligne.
 Répartition des données : Vous devez mélanger les lignes du fichier CSV pour garantir une répartition aléatoire des données. Ensuite, calculez le nombre de lignes nécessaires pour chaque destination : 30% pour le fichier JSON, 30% pour la base de données et le reste pour le fichier CSV.
